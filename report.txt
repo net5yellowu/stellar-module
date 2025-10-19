@@ -1,3 +1,4 @@
 # Ideas
 Summarize key takeaways
 Audit database schema
+Update contact information for support and maintenance
